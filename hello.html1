@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>bnanas</title>
+	<style type="text/css">
+		h1 {color : pink;}
+	</style>
+	
+<body>
+<p>bnanas r amazing u can eat them alone or make pancakes or literally anything. now lets see some recpies</p>
+<a href="https://www.instagram.com/pepsi/?hl=en"><h1>bnana cupcake</h1></a>
+<h2>bnana pancake/h2>
+<img src="bnana.jpg"width="400" height="400">
+<p id=“smashed_bnanas”>The second paragraph</p>
+
+<scipt></script>
+</body>
+
+</html>
